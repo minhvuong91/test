@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/minhvuong/Projects/devu_Fundamentals/devu_Fundamentals/devu_Fundamentals.csproj": {}
+  },
+  "projects": {
+    "/Users/minhvuong/Projects/devu_Fundamentals/devu_Fundamentals/devu_Fundamentals.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/minhvuong/Projects/devu_Fundamentals/devu_Fundamentals/devu_Fundamentals.csproj",
+        "projectName": "devu_Fundamentals",
+        "projectPath": "/Users/minhvuong/Projects/devu_Fundamentals/devu_Fundamentals/devu_Fundamentals.csproj",
+        "packagesPath": "/Users/minhvuong/.nuget/packages/",
+        "outputPath": "/Users/minhvuong/Projects/devu_Fundamentals/devu_Fundamentals/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/minhvuong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

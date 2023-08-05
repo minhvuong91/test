@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{47060D60-7B7C-415F-B621-22E4476CF0B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="devu_Fundamentals/Program.cs">
+    <Files>
+      <File FileName="devu_Fundamentals/Program.cs" Line="32" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="devu_Fundamentals" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="devu_Fundamentals" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.devu__Fundamentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
