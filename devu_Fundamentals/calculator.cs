@@ -1,11 +1,30 @@
 ﻿using System;
-namespace devu_Fundamentals
+namespace Calculator
 {
-	public class calculator
-	{
-		public calculator()
-		{
-		}
-	}
-}
 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int choice = 0;
+            cfgcgf hvhgvhvbbydysdsydys
+
+
+        }
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+}
